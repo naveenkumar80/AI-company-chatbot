@@ -51,6 +51,7 @@ venv/
 # Database
 *.sqlite
 *.db
+.vector-store/
 
 # Temporary files
 tmp/
